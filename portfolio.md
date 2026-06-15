@@ -587,7 +587,7 @@
       <p class="hero-eyebrow">Virtual Assistant — Philippines</p>
       <h1 class="hero-title">Behind every busy person<br>is a <em>detail-oriented</em> partner</h1>
       <p class="hero-sub">I handle the tasks that eat your time — so you can focus on the work only you can do.</p>
-      <a href="#contact" class="btn">Let's Work Together!</a>
+      <a href="#contact" class="btn">Work Smarter and Not Harder! Let's Work Together!</a>
     </div>
   </section>
 
